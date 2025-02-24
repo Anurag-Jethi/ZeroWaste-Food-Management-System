@@ -55,3 +55,11 @@
 
 <a href="https://kishor-23.github.io/food-donate/index.html" > view demo</a>
 
+
+
+## Collaborated by:
+* Devesh Ruttala 
+* Anurag Jethi
+
+## Deployed in Azure with devops tools 
+
