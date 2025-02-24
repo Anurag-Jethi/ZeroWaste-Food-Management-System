@@ -50,7 +50,7 @@ if($_SESSION['name']==''){
             <ul class="nav-links">
                 <li><a href="admin.php">
                     <i class="uil uil-estate"></i>
-                    <span class="link-name">Dahsboard</span>
+                    <span class="link-name">Dashboard</span>
                 </a></li>
                 <!-- <li><a href="#">
                     <i class="uil uil-files-landscapes"></i>
@@ -103,7 +103,7 @@ if($_SESSION['name']==''){
         <div class="top">
             <i class="uil uil-bars sidebar-toggle"></i>
             <!-- <p>Food Donate</p> -->
-            <p  class ="logo" >Food <b style="color: #06C167; ">Donate</b></p>
+            <p  class ="logo" >Zero<b style="color: #06C167; ">WasteHub</b></p>
              <p class="user"></p>
             <!-- <div class="search-box">
                 <i class="uil uil-search"></i>
@@ -146,7 +146,7 @@ if($_SESSION['name']==''){
                     </div>
                     <div class="box box3">
                         <i class="uil uil-heart"></i>
-                        <span class="text">Total doantes</span>
+                        <span class="text">Total donates</span>
                         <?php
                            $query="SELECT count(*) as count FROM food_donations";
                            $result=mysqli_query($connection, $query);
