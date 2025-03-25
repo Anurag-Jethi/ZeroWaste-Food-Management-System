@@ -25,9 +25,9 @@
     </p>
     <h3>User </h3>
    <!-- <img src="img/User-module.jpg"> -->
-    <img src="img/mobile.jpg">
+    <img src="#">
     <h3>Admin </h3>
-    <img src="img/Admin.jpg">
+    <img src="#">
      <h3>Delivery </h3>
     <img src="img/Delivery_module.jpg">
     <h3>features:</h3>
